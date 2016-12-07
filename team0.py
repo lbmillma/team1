@@ -1,4 +1,4 @@
-####
+m####
 # Each team's file must define four tokens:
 #     team_name: a string
 #     strategy_name: a string
@@ -6,9 +6,9 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Flash' # Only 10 chars displayed.
-strategy_name = 'RUN BARRY RUN!!'
-strategy_description = 'Running fast, but not moving'
+team_name = 'Team0' # Only 10 chars displayed.
+strategy_name = 'Collude!!'
+strategy_description = 'Always Collude'
     
 def move(my_history, their_history, my_score, their_score):
     ''' Arguments accepted: my_history, their_history are strings.
